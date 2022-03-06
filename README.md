@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pierre Smit</h1>
 <h3 align="center">A passionate PowerShell scripter and anything automation.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smitpi" alt="smitpi" /></a> </p>
-
 - 🌱 I’m currently learning **Anything DevOps**
-
 - 💬 Ask me about **anything Citrix or PowerShell**
 
 <h3 align="left">Connect with me:</h3>
@@ -23,3 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smitpi&show_icons=true&locale=en" alt="smitpi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smitpi&" alt="smitpi" /></p>
+
